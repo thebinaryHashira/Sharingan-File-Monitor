@@ -57,8 +57,8 @@ sudo pacman -S base-devel cmake nlohmann-json
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/thebinaryhashira/SharinganFilemonitor.git
-cd sharingan-file-monitor
+git clone https://github.com/thebinaryhashira/Sharingan-File-Monitor.git
+cd Sharingan-File-Monitor
 ```
 
 2. Create a build directory and compile:
