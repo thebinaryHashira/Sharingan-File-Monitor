@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)](https://en.wikipedia.org/wiki/Linux)
 
-![3-tomoe](https://github.com/user-attachments/assets/bab040fb-1602-45b0-b32c-90c59691ae71)
+"          "  ![3-tomoe](https://github.com/user-attachments/assets/bab040fb-1602-45b0-b32c-90c59691ae71)
 
 A comprehensive Linux file system monitoring tool that combines both inotify and fanotify subsystems to track file activities across your system. Named after the famous Sharingan eye of the Uchihaclan from Naruto.
 
@@ -245,3 +245,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Samora Tandon** - [thebinaryhashira](https://github.com/thebinaryhashira)
   - Twitter: [@tandon_samora](https://x.com/tandon_samora)
   - LinkedIn: [Tandon Samora](https://www.linkedin.com/in/tandon-samora-98244b23b/)
+
+## SCREENSHOTS
+
+![compling sharingan](https://github.com/user-attachments/assets/8a1830d2-07e1-4379-aaae-24451d59f0c4)
+
+![running sharingan](https://github.com/user-attachments/assets/6e455854-daad-47cd-9137-b95fcc10f781)
+
+![testcreatefile](https://github.com/user-attachments/assets/eb37e6b2-8b75-4fa5-aa9f-e4db067672d1)
