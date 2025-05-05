@@ -3,6 +3,7 @@
 ![Sharingan Logo](https://img.shields.io/badge/Sharingan-File%20Monitor-red?style=for-the-badge&logo=github)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)](https://en.wikipedia.org/wiki/Linux)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 &nbsp;&nbsp;&nbsp;![3-tomoe](https://github.com/user-attachments/assets/bab040fb-1602-45b0-b32c-90c59691ae71)
 
