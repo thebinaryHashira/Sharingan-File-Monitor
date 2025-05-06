@@ -1,7 +1,7 @@
 # Sharingan File Monitor
 
 ![Sharingan Logo](https://img.shields.io/badge/Sharingan-File%20Monitor-red?style=for-the-badge&logo=github)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey)](https://en.wikipedia.org/wiki/Linux)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -75,7 +75,7 @@ make
 4. Verify the installation:
 ```bash
 cd ..
-./sharingan_file_monitor --help
+sudo ./sharingan_file_monitor --help
 ```
 
 ## Configuration
@@ -233,7 +233,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0) - see the [LICENSE](LICENSE) file for details. This license ensures that derivative works must also be released under the same license.
 
 ## Acknowledgments
 
@@ -248,9 +248,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - LinkedIn: [Tandon Samora](https://www.linkedin.com/in/tandon-samora-98244b23b/)
 
 ## SCREENSHOTS
+![clone and make](https://github.com/user-attachments/assets/12d48644-07d4-4a6d-b81d-61a329250f3f)
 
-![compling sharingan](https://github.com/user-attachments/assets/8a1830d2-07e1-4379-aaae-24451d59f0c4)
+![help](https://github.com/user-attachments/assets/9ef1d789-6f4b-44c2-9e95-72de8d234f4f)
 
-![running sharingan](https://github.com/user-attachments/assets/6e455854-daad-47cd-9137-b95fcc10f781)
+![sharingan running](https://github.com/user-attachments/assets/50d86ab2-83f7-4215-9128-8d2ad0e11859)
 
-![testcreatefile](https://github.com/user-attachments/assets/eb37e6b2-8b75-4fa5-aa9f-e4db067672d1)
+![sharingan output](https://github.com/user-attachments/assets/2bccc611-b73f-4d9e-8619-765938a0f649)
+
+
