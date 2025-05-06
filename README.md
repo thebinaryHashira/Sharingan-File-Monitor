@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp;&nbsp;![3-tomoe](https://github.com/user-attachments/assets/bab040fb-1602-45b0-b32c-90c59691ae71)
 
-A comprehensive Linux file system monitoring tool that combines both inotify and fanotify subsystems to track file activities across your system. Named after the famous Sharingan eye of the Uchiha clan from Naruto.
+A comprehensive Linux dynamic malware analysis tool. It focuses on file interactions made by malware through file system monitoring with combination of both inotify and fanotify subsystems to track file activities across your system. Since everything in linux is treated as file, it can be quite noisy therefore it is highly recommended that you run it on clean(without active malware) system to understand normal behiavour and filter using the config file as needed. The tools name draws inspiration from the famous Sharingan eye of the Uchiha clan from Naruto.
 
 ## Features
 
@@ -21,7 +21,7 @@ A comprehensive Linux file system monitoring tool that combines both inotify and
 
 ## Use Cases
 
-- **Dynamic Malware Analysis**: Monitor file system changes during malware execution
+- **Dynamic Malware Analysis**: Run just before malware detenation to monitor file system changes during malware execution
 - **System Behavior Analysis**: Understand how applications interact with your file system
 - **Debugging File Access**: Troubleshoot applications by monitoring their file operations
 
